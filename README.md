@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on machine learning 
 - 📫 How to reach me at swapnilpardeshi@gmail.com
 - 😄 Pronouns: swap
-"CODE CANNOT LIE BUT COMMENT DOES" -SOMEONE UNKNOWN
+- 
+- "CODE CANNOT LIE BUT COMMENT DOES" -SOMEONE UNKNOWN
 
 <!---
 Swapnil9899/Swapnil9899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
