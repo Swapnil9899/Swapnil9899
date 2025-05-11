@@ -2,7 +2,7 @@
 - 👀 I’m pursuing DATA SCIENCE
 - 🌱 I’m currently learning artificial intelligence and data science
 - 💞️ I’m looking to collaborate on machine learning 
-- 📫 How to reach me at swapnilpardeshi@gmail.com
+- 📫 How to reach me at swapnilpardeshi98991@gmail.com
 - 
 - 
 - "CODE CANNOT LIE BUT COMMENT DOES" 
